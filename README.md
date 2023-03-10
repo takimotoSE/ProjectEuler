@@ -1,4 +1,2 @@
 # ProjectEuler
-takimoto was here
-from github
-with y-koga
+ProjectEulerをPythonを利用して解く
